@@ -112,7 +112,7 @@ In this project, you will work within a Microsoft Azure tenant where centralized
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: This will allow them to manage access to all Azure subscriptions and management groups in this.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: This will allow them to manage access to all Azure subscriptions and management groups in this tenant.</b></span>  
 <br/>
 
 </div>
