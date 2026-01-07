@@ -82,7 +82,7 @@ In this project, you will work within a Microsoft Azure tenant where centralized
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Properties (towards the bottom).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Properties (towards the bottom of the Manage drop-down).</b></span>  
 <br/>
 
 <table>
