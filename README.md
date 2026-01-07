@@ -87,7 +87,7 @@ In this project, you will work within a Microsoft Azure tenant where centralized
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/KDRyFk4.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/KDRyFk4.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
