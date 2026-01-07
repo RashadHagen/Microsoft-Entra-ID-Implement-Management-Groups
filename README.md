@@ -107,7 +107,7 @@ In this project, you will work within a Microsoft Azure tenant where centralized
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The toggle to “Yes” below the username of the Global Administrator  OR  User Access Administrator in the section: Access management for Azure resources.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the section: Access management for Azure resources, Click: The toggle to “Yes” below the username of the Global Administrator  OR  User Access Administrator you want to manage access privileges.</b></span>  
 <br/><br/>
 
 
