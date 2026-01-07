@@ -107,7 +107,7 @@ In this project, you will work within a Microsoft Azure tenant where centralized
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The toggle to “Yes” below the username of the Global Administrator  OR  User Access Administrator.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The toggle to “Yes” below the username of the Global Administrator  OR  User Access Administrator in the section: Access management for Azure resources.</b></span>  
 <br/><br/>
 
 
@@ -121,6 +121,12 @@ In this project, you will work within a Microsoft Azure tenant where centralized
 
 <table>
   <tr>
+    <td><img src="https://imgur.com/0Wtu0rW.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><img src="https://imgur.com/u7aGnC0.png" height="100%" width="100%" /></td>
   </tr>
 </table>
@@ -129,12 +135,6 @@ In this project, you will work within a Microsoft Azure tenant where centralized
   <tr>
     <td><img src="https://imgur.com/F6UKhRw.png" height="100%" width="100%" /></td>
     <td><img src="https://imgur.com/zW1jjHA.png" height="100%" width="100%" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/0Wtu0rW.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
