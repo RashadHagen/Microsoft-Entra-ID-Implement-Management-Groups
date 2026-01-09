@@ -1,4 +1,4 @@
-<h1>Microsoft Entra ID – Allow Access To Management Groups And Subscriptions</h1>
+<h1>Microsoft Entra ID – How To Allow Access To Management Groups And Subscriptions</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
